@@ -1,5 +1,9 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Rajat Vinay</h1> <h3 align="center">A passionate developer from India</h3>  - 🌱 I’m currently learning **Frameworks**  - 👨‍💻 All of my projects are available at [https://rv-portfolio0987654321.netlify.app/](https://rv-portfolio0987654321.netlify.app/)<br>- 💬 Ask me about **React**  - 📫 How to reach me **rajatvinay03@gmail.com** <br>- 📄 Know about my experiences [https://drive.google.com/file/d/1qECZ4MwNByy1jGFTQO6lTg29I8jMewNx/view?usp=share_link](https://drive.google.com/file/d/1qECZ4MwNByy1jGFTQO6lTg29I8jMewNx/view?usp=share_link)  <br>- ⚡ Fun fact **More fun in IRL**
+<h1 align="center">Hi 👋, I'm Rajat Vinay</h1> <h3 align="center">A passionate developer from India</h3>  - 🌱 I’m currently learning **Frameworks**  
+- 👨‍💻 All of my projects are available at (https://rv-portfolio0987654321.netlify.app/)<br> 
+- 💬 Ask me about **React**  - 📫 How to reach me **rajatvinay03@gmail.com** <br>
+- 📄 Know about my experiences (https://drive.google.com/file/d/1qECZ4MwNByy1jGFTQO6lTg29I8jMewNx/view?usp=share_link)  <br>
+- ⚡ Fun fact **More fun in IRL**
 
 
 ## 🌐 Socials:
