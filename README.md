@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Rajat Vinay</h1> <h3 align="center">A passionate developer from India</h3>  - 🌱 I’m currently learning Frameworks  
+<h1 align="center">Hi 👋, I'm Rajat Vinay</h1> <h3 align="center">A passionate developer from India</h3>  - 🌱 I’m currently learning Frameworks <br> 
 - 👨‍💻 All of my projects are available at (https://rv-portfolio0987654321.netlify.app/)<br> 
 - 💬 Ask me about React<br>
 - 📫 How to reach me rajatvinay03@gmail.com<br>
