@@ -3,8 +3,8 @@
 - 👨‍💻 All of my projects are available at (https://rv-portfolio0987654321.netlify.app/)<br> 
 - 💬 Ask me about React<br>
 - 📫 How to reach me rajatvinay03@gmail.com<br>
-- 📄 Know about my experiences (https://drive.google.com/file/d/1qECZ4MwNByy1jGFTQO6lTg29I8jMewNx/view?usp=share_link)  <br>
-- ⚡ Fun fact More fun IRL
+- 📄 Know about my experiences (https://drive.google.com/file/d/1teyVLdrYTL5pzG8EwDLiTywwUXzLJ_Vf/view?usp=sharing)  <br>
+- ⚡ Fun fact- I'm more fun IRL
 
 
 ## 🌐 Socials:
