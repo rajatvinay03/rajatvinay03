@@ -1,10 +1,10 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Rajat Vinay</h1> <h3 align="center">A passionate developer from India</h3>  - 🌱 I’m currently learning Frameworks <br> 
+<h1 align="center">Hi 👋, I'm Rajat Vinay</h1> <h3 align="center">A passionate developer from India</h3>  - 🌱 I’m currently learning new Frameworks <br> 
 - 👨‍💻 All of my projects are available at (https://rv-portfolio0987654321.netlify.app/)<br> 
-- 💬 Ask me about React<br>
+- 💬 Ask me about React,Django,Express<br>
 - 📫 How to reach me rajatvinay03@gmail.com<br>
-- 📄 Know about my experiences (https://drive.google.com/file/d/1teyVLdrYTL5pzG8EwDLiTywwUXzLJ_Vf/view?usp=sharing)  <br>
-- ⚡ Fun fact- I'm more fun IRL
+- 📄 Know about my experiences (https://drive.google.com/file/d/1Lp4bXbydvj_JaeqpzCv9X-w07zjoKEya/view?usp=sharing)  <br>
+- ⚡ I'm more fun IRL
 
 
 ## 🌐 Socials:
